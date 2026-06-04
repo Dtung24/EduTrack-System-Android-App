@@ -1,0 +1,6 @@
+{
+  "name": "EduTrack Dashboard",
+  "description": "Smart Attendance Dashboard with real-time logs, student management, and Gemini AI assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
